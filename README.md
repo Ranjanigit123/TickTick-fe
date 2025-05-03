@@ -31,7 +31,7 @@ This is the frontend for a recurring task management app built using **Next.js**
 ### 1. Clone the repository
 
 git clone https://github.com/Ranjanigit123/TickTick-fe.git
-cd TickTick-fe
+### cd TickTick-fe
 
 ### 2. Install dependencies
 npm install
